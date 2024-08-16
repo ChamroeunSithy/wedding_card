@@ -70633,7 +70633,7 @@ A.a9y.prototype={
 $1(a){return this.a.$1(a)},
 $S:144}
 A.G1.prototype={
-W(a){return new A.v3("home","Sastra Digital Solution",$.apq(),B.Dj,B.dM,!1,B.i3,$.app(),null)}}
+W(a){return new A.v3("weddingdigitalcard","Sastra Digital Solution",$.apq(),B.Dj,B.dM,!1,B.i3,$.app(),null)}}
 A.nP.prototype={
 C(){return"RouteView."+this.b}}
 A.Sr.prototype={
